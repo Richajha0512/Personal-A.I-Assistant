@@ -1,0 +1,4 @@
+1.we connect front-end with back-end using python "lib eel"//which we imported using command prompt //pip install
+
+2.the python from backend communicate & makes its work done by front-end from javascript at front-end
+3. they both communicate through exchanging their functions i.e.,likewise done in @eel.expose to access main.js from main.py
